@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2d2bcbb-8b03-413c-9690-6ae272fe018f" name="更改" comment="进行了一次修改" />
+    <list default="true" id="c2d2bcbb-8b03-413c-9690-6ae272fe018f" name="更改" comment="进行了一次修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +75,7 @@
       <updated>1762406140099</updated>
       <workItem from="1762406140996" duration="995000" />
       <workItem from="1762407883135" duration="1318000" />
-      <workItem from="1762429376465" duration="377000" />
+      <workItem from="1762429376465" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="这是后端代码">
       <option name="closed" value="true" />
